@@ -1,0 +1,9 @@
+c:\users\hector\documents\visual studio 2015\Projects\AnalisisLexico\AnalisisLexico\bin\Debug\AnalisisLexico.exe.config
+c:\users\hector\documents\visual studio 2015\Projects\AnalisisLexico\AnalisisLexico\bin\Debug\AnalisisLexico.exe
+c:\users\hector\documents\visual studio 2015\Projects\AnalisisLexico\AnalisisLexico\bin\Debug\AnalisisLexico.pdb
+c:\users\hector\documents\visual studio 2015\Projects\AnalisisLexico\AnalisisLexico\obj\Debug\AnalisisLexico.csprojResolveAssemblyReference.cache
+c:\users\hector\documents\visual studio 2015\Projects\AnalisisLexico\AnalisisLexico\obj\Debug\AnalisisLexico.Form1.resources
+c:\users\hector\documents\visual studio 2015\Projects\AnalisisLexico\AnalisisLexico\obj\Debug\AnalisisLexico.Properties.Resources.resources
+c:\users\hector\documents\visual studio 2015\Projects\AnalisisLexico\AnalisisLexico\obj\Debug\AnalisisLexico.csproj.GenerateResource.Cache
+c:\users\hector\documents\visual studio 2015\Projects\AnalisisLexico\AnalisisLexico\obj\Debug\AnalisisLexico.exe
+c:\users\hector\documents\visual studio 2015\Projects\AnalisisLexico\AnalisisLexico\obj\Debug\AnalisisLexico.pdb
